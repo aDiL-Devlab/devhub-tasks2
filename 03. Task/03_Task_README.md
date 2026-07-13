@@ -1,4 +1,7 @@
-# Task 4: Loan Default Risk with Business Cost Optimization
+## If File does'nt render than click Here:
+[![View Notebook](https://img.shields.io/badge/View-Task%203-blue?logo=jupyter)](https://nbviewer.org/github/aDiL-Devlab/devhub-tasks2/blob/main/03.%20Task/03_Task.ipynb)
+
+# Task 3: Loan Default Risk with Business Cost Optimization
 
 ## Objective
 Predict the likelihood of a loan default and optimize the decision threshold based on cost-benefit analysis, rather than relying on default accuracy-based classification.
