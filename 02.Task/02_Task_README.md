@@ -1,3 +1,6 @@
+### If File does not render then click here:
+[![View Notebook](https://img.shields.io/badge/View-Task%202-blue?logo=jupyter)](https://nbviewer.org/github/aDiL-Devlab/devhub-tasks2/blob/main/02.Task/02_Task.ipynb)
+
 # Task 2: Customer Segmentation Using Unsupervised Learning
 
 ## Objective
